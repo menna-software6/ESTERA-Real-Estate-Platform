@@ -1,0 +1,6 @@
+{
+  "name": "ESTERA | Exceptional Spaces & Luxury Real Estate",
+  "description": "ESTERA is a premier architectural real estate marketplace showcasing considered residences, luxury villas, and contemporary penthouses in exceptional locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
