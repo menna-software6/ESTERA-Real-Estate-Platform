@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(({ command }) => {
   return {
-    base: command === 'serve' ? '/' : '/real-estate-platform/',
+    base: command === 'serve' ? '/' : '/ESTERA-Real-Estate-Platform/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
